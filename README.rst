@@ -260,3 +260,5 @@ Legal Stuff
 
 
 Based on **yfinance** from **Ran Aroussi**.
+
+**What is the best way to make the changes in the major model in the finance issue in the yahoo project**
